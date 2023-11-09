@@ -27,7 +27,6 @@
       foreach($stmt->fetchAll() as $k=>$v) {
     
       }
-     
     ?>
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 g-1 projects">
           <div id="project1" class="project card shadow-sm card-body m-2">
